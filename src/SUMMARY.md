@@ -4,6 +4,7 @@
 - [Languages](./languages/index.md)
   - [Golang](./languages/golang/index.md)
     - [Variables](./languages/golang/variables.md)
+    - [Types](./languages/golang/types.md)
     - [Control flow](./languages/golang/control_flow.md)
     - [Functions](./languages/golang/functions.md)
     - [Structs](./languages/golang/structs.md)
