@@ -14,7 +14,9 @@ name := "John"  // string
 
 ## Array
 
-Arrays (size known at compile time but cannot resize)
+Arrays have a size known at compile time but cannot resize, used when you ahve a fixed amount of data you need to store.
+
+Generally more efficient than slices.
 
 ```go
 arr := [2]string{"a","b"}   // string array 
